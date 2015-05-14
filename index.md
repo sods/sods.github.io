@@ -3,7 +3,7 @@ layout: page
 tagline: open data science initiative
 ---
 
-Open data science is a philosophy designed to address emerging challenges for society in data. The Open Data Science Initiative is a cross faculty project built around the ideas in this white paper. 
+Open data science is a philosophy designed to address emerging challenges for society in data. The Open Data Science Initiative is a cross faculty project built around the ideas in [this white paper](http://inverseprobability.com/2014/07/01/open-data-science/). 
 
 # News
 
