@@ -16,7 +16,19 @@ everyone interested in these events. Do not hesitate to contact
 j.h.gonzalez@sheffield.ac.uk if you want to be part of it! Details about
 future the events will be updated in this web.
 
-## Past Events
+#### The Data Farm, March 2015
+
+Neil gave a talk on [The Data Farm](data_farm.html) for Sheffield's Festival of Science and Engineering
+
+#### Data Science in Africa, June 2015
+
+From 15th-19th June with [John Quinn](www.cit.mak.ac.ug/staff/jquinn/), [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html) and [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/) we are hosting a [Data Science in Africa](https://sites.google.com/site/dekutdatascienceworkshop2015/) workshop to be based in Nyeri, Kenya.
+
+#### December, 2014
+
+Very pleased to announce our first appointment associated with the initiative. [Mike Croucher](http://www.walkingrandomly.com/) will be moving to Sheffield in March.
+
+## Meetups
 
  12 Jun 2014, **Stan and aspects of scientific computing support**
  16:00-17:00 [Michael Betancourt](http://www.homepages.ucl.ac.uk/%7Eucakmjb/)- UCL.
