@@ -20,9 +20,7 @@ future the events will be updated in this web.
 
  12 Jun 2014, **Stan and aspects of scientific computing support**
  16:00-17:00 [Michael Betancourt](http://www.homepages.ucl.ac.uk/%7Eucakmjb/)- UCL.
- 17:00-18:00 [Michael Croucher](https://twitter.com/walkingrandomly)
-[](http://scholar.google.fr/citations?user=PJQNw9oAAAAJ&hl=en)-
-University of Manchester.
+ 17:00-18:00 [Michael Croucher](https://twitter.com/walkingrandomly) University of Manchester.
  18:00 - IPython notebook poster session.
  
  WHEN: 12 April 2014, at 16:00 hrs, 
