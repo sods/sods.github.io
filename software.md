@@ -6,7 +6,7 @@ title: Software
 
 {% for repository in site.github.public_repositories %}
 {% if repository.has_pages %}
-{% if repository.name contains 'github.io %}
+{% if repository.name contains 'github.io' %}
 {% else %}
 * [{{ repository.description }}](./{{ repository.name }}/) ({{ repository.watchers_count }} watchers)
 {% endif %}
