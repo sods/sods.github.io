@@ -14,5 +14,5 @@ We are taking an active role in this debate including:
 - We are active on social media (see e.g. [@lawrennd](https://twitter.com/lawrennd) and [@walkingrandomly](https://twitter.com/walkingrandomly)).
 - We give public lectures on [Uncertainty](http://inverseprobability.com/inaugural.html) and [Data Science](http://inverseprobability.com/data_farm.html).
 - Schools lectures at all ages from 8 until 18.
-- Sheffield Computer Science department's "[Cutlers' Ambassadors Scheme](http://ambassadors.rcweb.dcs.shef.ac.uk/)" for school students.
+- We participate in Sheffield Computer Science department's "[Cutlers' Ambassadors Scheme](http://ambassadors.rcweb.dcs.shef.ac.uk/)" for school students.
 - Participating in national debates at [Nesta](http://www.nesta.org.uk/event/machines-learn-wild) and the [Guardian](http://www.theguardian.com/profile/guardianroundtable) and we have given advice to UK Cabinet Office for reports on Data Ethics.
