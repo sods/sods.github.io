@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Understanding of Data Science
+title: Public Understanding
 tagline: contributing to public understanding and debate
 ---
 
