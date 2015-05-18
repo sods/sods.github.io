@@ -10,7 +10,7 @@ Many talented people would like to see their ideas and work being applied for th
 
 1.  Make new analysis methodologies available as widely and rapidly as possible with as few conditions on their use as possible (see [the ML@SITraN group software pages](http://sheffieldml.github.io/software.html) and the local [software page](./software.html)).
 2.  Educate our commercial, scientific and medical partners in the use of these latest methodologies (see [http://gpss.cc](http://gpss.cc))
-3.  Act to achieve a balance between data sharing for societal benefit and the right of an individual to own their data. (see our summary of our efforts in [public understanding and debate](./public_understanding.html))
+3.  Act to achieve a balance between data sharing for societal benefit and the right of an individual to own their data. (see our summary of our efforts in [public understanding and debate](./public.html))
 
 
 # News
