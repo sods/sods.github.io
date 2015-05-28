@@ -13,6 +13,8 @@ title: Software
 {% endif %}
 {% endfor %}
 
+## Other Software
+
 The SheffieldML group also makes machine learning software avialble through the [ML@SITraN](http://sheffieldml.github.io/software.html) page, and some of Neil's older software is available from [his page](http://inverseprobability.com/software.html).
 
 Our objective is to releasing software targeted at making open data science easier for both 'generators' and 'consumers' of data science methodologies.
