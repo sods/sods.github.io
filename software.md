@@ -4,7 +4,7 @@ tagline: open data science initiative
 title: Software
 ---
 
-We have several repositories for software. Some are written by us directly, others are rehosting of code that has disappeared from the web.
+We have several repositories for software. Some are written by us directly, others are rehosting of code that has disappeared from the web or we are hosting here on the author's behalf.
 
 {% for repository in site.github.public_repositories %}
 {% if repository.has_pages %}
