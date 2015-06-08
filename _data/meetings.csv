@@ -1,22 +1,23 @@
-present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers
-Y,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",./gpgo15,Javier Gonzalez and the Sheffield ML group
-Y,"Sheffield, UK",14,16,September,,2015,"Gaussian Process Summer School",./gpss15,Javier Gonzalez and the Sheffield ML group
-Y,"Nyeri, Kenya",15,17,June,,2015,"ODS: Data Science School",./dss15,"Andreas Damianou, Mike Smith, Ciira wa Maina and John Quinn"
-Y,"Nyeri, Kenya",18,19,June,,2015,"Workshop on Datascience in Africa",./dsa15,"Ciira wa Maina and John Quinn"
-,"Copenhagen, Denmark",21,22,May,,2015,Workshop on Gaussian Process Approximations,./gpa15,"Aki Vehtari and Ole Winther"
-,"Melbourne, Australia",25,27,February,,2015,"Gaussian Process Summer School",./gprs15b,Trevor Cohn
-,"Genoa, Italy",19,22,January,,2015,"Gaussian Process Winter School",./gprs15a,Alessandro Rudi and Lorenzo Rosasco
-,"Sheffield, UK",18,,September,,2014,"Workshop on Gaussian Processes for Feature Extraction",./gpfe14,Zhenwen Dai
-,"Sheffield, UK",15,17,September,,2014,"Gaussian Process Summer School",./gpss14,Zhenwen Dai
-,"Pereira, Colombia",11,14,February,,2014,"Gaussian Process School",./gprs14,Mauricio Alvarez
-,"Sheffield, UK",16,,January,,2014,"Workshop on Spatiotemporal Modelling with Gaussian Processes",./gpst14,
-,"Sheffield, UK",13,15,January,,2014,"Gaussian Process Winter School",./gpws14,Alan Saul, Andreas Damianou and the Sheffield ML group
-,"Leahurst, UK",4,5,November,,2013,"Disease Mapping Workshop",./leahurst13,Peter Diggle and Peter Gething
-,"Kampala, Uganda",6,9,August,,2013,"Gaussian Process School",./gprs13,"Ricardo Andrade Pacheco, John Quinn and Martin Mubangizi"
-,"Sheffield, UK",13,,June,,2013,"Latent Force Model Workshop",./lfm13,Mauricio Alvarez
-,"Sheffield, UK",10,12,June,,2013,"Gaussian Process Summer School",./gpss13,Nicolas Durrande and the Sheffield ML group
-,"Whistler, Cananda",12,,December,,2009,"Kernels for Multiple Outputs and Multi-task Learning: Frequentist and Bayesian Points of View",./mock09,Mauricio Alvarez and Lorenzo Rosasco
-,"Manchester, UK",23,24,July,,2009,"Statistics and Learning Interface Meeting: Multiple Output Gaussian Processes",./slim09,Mauricio Alvarez
-,"Grasmere, The Lake District, UK",,,,,,"Bayesian Research Kitchen",./bark08,Joaquin Quinonero Candela
-,"Bletchley Park, UK",12,13,June,,2006,"Gaussian Processes in Practice",./gpip,Joaquin Quinonero Candela and Anton Schwaighofer
-,"Sheffield, UK",9,10,June,,2005,"Gaussian Process Round Table",./gprt,
+present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers,gpss
+Y,"Manchester, UK",20,25,September,,2015,"Machine Learning for Personalized Medicine Summer Schoool",http://gpss.cc/mlpm15,[Max Zwiessele](http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/)
+Y,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",http://gpss.cc/gpgo15,[Javier Gonzalez](http://javiergonzalezh.github.io/) and the Sheffield ML group
+Y,"Sheffield, UK",14,16,September,,2015,"Gaussian Process Summer School",http://gpss.cc/gpss15,[Javier Gonzalez](http://javiergonzalezh.github.io/) and the Sheffield ML group
+Y,"Nyeri, Kenya",15,17,June,,2015,"ODS: Data Science School",http://gpss.cc/dss15,"Andreas Damianou, Mike Smith, Ciira wa Maina and [John Quinn](http://air.ug/~jquinn/)"
+Y,"Nyeri, Kenya",18,19,June,,2015,"Workshop on Datascience in Africa",http://gpss.cc/dsa15,"Ciira wa Maina and [John Quinn](http://air.ug/~jquinn/)"
+,"Copenhagen, Denmark",21,22,May,,2015,Workshop on Gaussian Process Approximations,http://gpss.cc/gpa15,"[Aki Vehtari](http://users.aalto.fi/~ave/) and [Ole Winther](http://cogsys.imm.dtu.dk/staff/winther/)"
+,"Melbourne, Australia",25,27,February,,2015,"Gaussian Process Summer School",http://gpss.cc/gprs15b,[Trevor Cohn](http://people.eng.unimelb.edu.au/tcohn/)
+,"Genoa, Italy",19,22,January,,2015,"Gaussian Process Winter School",http://gpss.cc/gprs15a,[Alessandro Rudi](http://www.iit.it/en/people/alessandro-rudi.html) and [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/)
+,"Sheffield, UK",18,,September,,2014,"Workshop on Gaussian Processes for Feature Extraction",http://gpss.cc/gpfe14,[Zhenwen Dai](http://staffwww.dcs.shef.ac.uk/people/Z.Dai/)
+,"Sheffield, UK",15,17,September,,2014,"Gaussian Process Summer School",http://gpss.cc/gpss14,[Zhenwen Dai](http://staffwww.dcs.shef.ac.uk/people/Z.Dai/)
+,"Pereira, Colombia",11,14,February,,2014,"Gaussian Process School",http://gpss.cc/gprs14,[Mauricio Alvarez](https://sites.google.com/site/maalvarezl/)
+,"Sheffield, UK",16,,January,,2014,"Workshop on Spatiotemporal Modelling with Gaussian Processes",http://gpss.cc/gpst14,
+,"Sheffield, UK",13,15,January,,2014,"Gaussian Process Winter School",http://gpss.cc/gpws14,Alan Saul, Andreas Damianou and the Sheffield ML group
+,"Leahurst, UK",4,5,November,,2013,"Disease Mapping Workshop",http://gpss.cc/leahurst13,Peter Diggle and Peter Gething
+,"Kampala, Uganda",6,9,August,,2013,"Gaussian Process School",http://gpss.cc/gprs13,"Ricardo Andrade Pacheco, [John Quinn](http://air.ug/~jquinn/) and Martin Mubangizi"
+,"Sheffield, UK",13,,June,,2013,"Latent Force Model Workshop",http://gpss.cc/lfm13,[Mauricio Alvarez](https://sites.google.com/site/maalvarezl/)
+,"Sheffield, UK",10,12,June,,2013,"Gaussian Process Summer School",http://gpss.cc/gpss13,Nicolas Durrande and the Sheffield ML group
+,"Whistler, Cananda",12,,December,,2009,"Kernels for Multiple Outputs and Multi-task Learning: Frequentist and Bayesian Points of View",http://gpss.cc/mock09,[Mauricio Alvarez](https://sites.google.com/site/maalvarezl/) and [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/)
+,"Manchester, UK",23,24,July,,2009,"Statistics and Learning Interface Meeting: Multiple Output Gaussian Processes",http://gpss.cc/slim09,[Mauricio Alvarez](https://sites.google.com/site/maalvarezl/)
+,"Grasmere, The Lake District, UK",,,,,,"Bayesian Research Kitchen",http://gpss.cc/bark08,[Joaquin Quinonero Candela](http://quinonero.net)
+,"Bletchley Park, UK",12,13,June,,2006,"Gaussian Processes in Practice",http://gpss.cc/gpip,[Joaquin Quinonero Candela](http://quinonero.net) and Anton Schwaighofer
+,"Sheffield, UK",9,10,June,,2005,"Gaussian Process Round Table",http://gpss.cc/gprt,
