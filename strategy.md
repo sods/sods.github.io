@@ -3,7 +3,6 @@ layout: page
 title: Strategy
 ---
 
-Our strategy is evolving, so this page will evolve with it. When the right strategy is uncertain its important not to constrain things too much, but here we write some agreed upon ideas.
 
 ## Background
 
@@ -20,3 +19,7 @@ The principle of the Open Data Science Initiative is that no one should be unwil
 ## Software
 
 Open data science is not just about open source software, being exclusively open source can even be damaging to the agenda, because it prevents delivery of solutions to those who most need them. Even if we feel a particular software choice (such as Excel) is detrimental to long term understanding of data, it is important to bridge to its users to ensure that our solutions cater for their needs.
+
+## Strategy Evolution
+
+Our strategy will evolve, so this page will evolve with it. When the right strategy is unclear its important not to constrain things too much, but here we write some agreed upon ideas.
