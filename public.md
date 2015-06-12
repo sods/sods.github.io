@@ -8,6 +8,8 @@ How we will deal with the challenges presented by the pervasiveness of data and 
 
 We are taking an active role in this debate including:
 
+- Article in The Guardian's Media and Tech Network on [preventing AI becoming creepy](http://www.theguardian.com/media-network/2015/jun/12/artificial-intelligence-ai-human-computer).
+- Article in The Conversation on the [Baidu and the Imagenet Competition](https://theconversation.com/ai-cheating-scandal-makes-machine-learning-sound-like-a-sport-it-isnt-43132)
 - Article in The Guardian's media network on [The Rules of the Digital World](http://www.theguardian.com/media-network/2015/apr/02/rules-digital-technology-internet-bill-rights) in April 2015.
 - Article in The Guardian's media network on [Digital Oligarchies](http://www.theguardian.com/media-network/2015/mar/05/digital-oligarchy-algorithms-personal-data) in March 2015.
 - Article in The Conversation in December 2013 on [Facebook's move into Machine Learning](https://theconversation.com/are-you-an-expert-in-machine-learning-facebook-is-hiring-21439).
