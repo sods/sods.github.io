@@ -8,12 +8,13 @@ How we will deal with the challenges presented by the pervasiveness of data and 
 
 We are taking an active role in this debate including:
 
+- We are active on social media (see e.g. [@lawrennd](https://twitter.com/lawrennd) and [@walkingrandomly](https://twitter.com/walkingrandomly)).
 - Article in The Guardian's Media and Tech Network on [preventing AI becoming creepy](http://www.theguardian.com/media-network/2015/jun/12/artificial-intelligence-ai-human-computer).
 - Article in The Conversation on the [Baidu and the Imagenet Competition](https://theconversation.com/ai-cheating-scandal-makes-machine-learning-sound-like-a-sport-it-isnt-43132)
+- Neil took place in a round table hosted by The Guardian on ["The Implications of Internet of Things for Small Businesses"](http://www.theguardian.com/small-business-network/video/2015/jun/04/internet-of-everything-startup-economy).
 - Article in The Guardian's media network on [The Rules of the Digital World](http://www.theguardian.com/media-network/2015/apr/02/rules-digital-technology-internet-bill-rights) in April 2015.
 - Article in The Guardian's media network on [Digital Oligarchies](http://www.theguardian.com/media-network/2015/mar/05/digital-oligarchy-algorithms-personal-data) in March 2015.
 - Article in The Conversation in December 2013 on [Facebook's move into Machine Learning](https://theconversation.com/are-you-an-expert-in-machine-learning-facebook-is-hiring-21439).
-- We are active on social media (see e.g. [@lawrennd](https://twitter.com/lawrennd) and [@walkingrandomly](https://twitter.com/walkingrandomly)).
 - We give public lectures on [Uncertainty](http://inverseprobability.com/inaugural.html) and [Data Science](http://inverseprobability.com/data_farm.html).
 - Schools lectures at all ages from 8 until 18.
 - We participate in Sheffield Computer Science department's "[Cutlers' Ambassadors Scheme](http://ambassadors.rcweb.dcs.shef.ac.uk/)" for school students.
