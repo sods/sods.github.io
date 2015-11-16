@@ -6,9 +6,10 @@ tagline: contributing to public understanding and debate
 
 How we will deal with the challenges presented by the pervasiveness of data and increasing use of artificial intelligence? There are no clear answers, but it is vital that we have a discussion.
 
-We are taking an active role in this debate including:
+We are taking an active role in this debate including. Some examples are given below.
 
 - [The Data Hide](./datahide/): A Monthly Meet-up in Sheffield on Data open to members of the public.
+- Article in The Guardian's Media and Tech Network on [Information Feudalism and the Need for a Digital Enlightement](http://www.theguardian.com/media-network/2015/nov/16/information-barons-threaten-autonomy-privacy-online)
 - Article in The Guardian's Media and Tech Network on [How Africa can benefit from the data science revolution](http://www.theguardian.com/media-network/2015/aug/25/africa-benefit-data-science-information)
 - We are active on social media (see e.g. [@lawrennd](https://twitter.com/lawrennd) and [@walkingrandomly](https://twitter.com/walkingrandomly)).
 - Article in The Guardian's Media and Tech Network on [preventing AI becoming creepy](http://www.theguardian.com/media-network/2015/jun/12/artificial-intelligence-ai-human-computer).
