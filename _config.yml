@@ -11,3 +11,7 @@ facebook: odsi.sheffield
 
 # Build settings
 markdown: kramdown
+
+analytics:
+  google:
+    tracking_id: UA-62964644-1
