@@ -7,7 +7,8 @@ event:
 ve we Created?"
   start: "17:30"
   end: "18:30"
-  room: "The Diamond, 32 Leavygreave Road, Sheffield, S3 7RD (Lecture Theatre 5)"
+  room: "Lecture Theatre 5"
+  venue: "The Diamond, 32 Leavygreave Road, Sheffield, S3 7RD"
   speakers:
   - name: Neil Lawrence
     url: "http://inverseprobability.com"
