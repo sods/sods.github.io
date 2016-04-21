@@ -3,13 +3,13 @@ layout: post
 ---
 <p>
   {% if page.event.date %}
-  <b>Date:</b> {{ page.event.date | date: "%a, %b %d, %y" }}<br><br>
+  <b>Date:</b> {{ page.event.date | date: "%A, %b %d, %Y" }}<br><br>
   {% endif %}
   {% if page.event.start %}
   <b>Time:</b> {{ page.event.start }}{% if page.event.end %} - {{ page.event.end }}{% endif %}<br><br>
   {% endif %}
   {% if page.event.room or page.event.location %}
-  <b>Venue:</b>{% if page.event.room and page.event.location %}{{ page.event.room }}, {{ page.event.location }}{% else %}{{ page.event.room }}{{ page.event.location }}{% endif %}<br><br>
+  <b>Venue:</b> {% if page.event.room and page.event.location %}{{ page.event.room }}, {{ page.event.location }}{% else %}{{ page.event.room }}{{ page.event.location }}{% endif %}<br><br>
   {% endif %}
 
   <b>Organizers:</b>
