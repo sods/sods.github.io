@@ -9,9 +9,12 @@ layout: post
 
 <h3>Organizers:</h3>
 
-<p>{% for person in page.organizers %}
-{% include listperson.html %}<br>
-{% endfor %}
+<p>{% if page.organizers %}
+  {% assign lastone = site.conference.organizers | last %}
+  {% for person in page.organizers %}
+  {% include listperson.html %}<br>
+  {% endfor %}
+  {% endif %}
 </p>
 
 {% if page.ticket_url %}
