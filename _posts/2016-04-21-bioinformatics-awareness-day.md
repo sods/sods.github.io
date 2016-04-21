@@ -1,12 +1,13 @@
 ---
 layout: event
 title: Bioinformatics Awareness Day
-event_date: 2016-05-04
-address: SITraN, 385a Glossop Road, Sheffield
-ticket_url: https://www.eventbrite.co.uk/e/bad-days-bioinformatics-awareness-day-1-tickets-24206398991
-organizers:
- - name: Luisa Cutillo
-   url: "https://www.linkedin.com/in/luisa-cutillo-a4014284"
+event:
+  date: 2016-05-04
+  location: SITraN, 385a Glossop Road, Sheffield
+  ticket_url: https://www.eventbrite.co.uk/e/bad-days-bioinformatics-awareness-day-1-tickets-24206398991
+  organizers:
+  - name: Luisa Cutillo
+    url: "https://www.linkedin.com/in/luisa-cutillo-a4014284"
 ---
 
 Luisa Cutillo is organising a Bioinformatics Awareness Day.

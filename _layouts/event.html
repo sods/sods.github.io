@@ -3,13 +3,20 @@ layout: post
 ---
 
 
-<h3>Date: {{ page.event_date | date: "%a, %b %d, %y" }}</h3>
+<p>
+  {% if page.event.date %}
+  <b>Date:</b> {{ page.event.date | date: "%a, %b %d, %y" }}<br><br>
+{% endif %}
+{% if page.event.start %}
+<b>Time:</b> {{ page.event.start }}{% if page.event.end %} - {{ page.event.end }}{% endif %}<br><br>
+{% endif %}
+{% if page.event.room or page.event.location %}
+<b>Venue: {{ page.event.room }} {{ page.event.location }}}</b><br><br>
+{% endif %}
 
-<h3>Where: {{ page.address }}</h3>
+<b>Organizers:</b>
 
-<h3>Organizers:</h3>
-
-<p>{% if page.organizers %}
+{% if page.event.organizers %}
   {% assign lastone = site.conference.organizers | last %}
   {% for person in page.organizers %}
   {% include listperson.html %}<br>

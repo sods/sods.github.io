@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: event
 title: "Future Debates: This House Believes An Artificial Intelligence will Benefit Society"
+event_date: 2016-02-29
 ---
 
 This evening I'm participating in a debate on AI. We get seven minutes each for our initial statement. This is the script for mine. 
