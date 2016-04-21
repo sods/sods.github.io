@@ -1,22 +1,20 @@
 ---
 layout: post
 ---
-
-
 <p>
   {% if page.event.date %}
   <b>Date:</b> {{ page.event.date | date: "%a, %b %d, %y" }}<br><br>
-{% endif %}
-{% if page.event.start %}
-<b>Time:</b> {{ page.event.start }}{% if page.event.end %} - {{ page.event.end }}{% endif %}<br><br>
-{% endif %}
-{% if page.event.room or page.event.location %}
-<b>Venue:</b>{% if page.event.room and page.event.location %}{{ page.event.room }}, {{ page.event.location }}{% else %}{{ page.event.room }}{{ page.event.location }}<br><br>
-{% endif %}
+  {% endif %}
+  {% if page.event.start %}
+  <b>Time:</b> {{ page.event.start }}{% if page.event.end %} - {{ page.event.end }}{% endif %}<br><br>
+  {% endif %}
+  {% if page.event.room or page.event.location %}
+  <b>Venue:</b>{% if page.event.room and page.event.location %}{{ page.event.room }}, {{ page.event.location }}{% else %}{{ page.event.room }}{{ page.event.location }}{% endif %}<br><br>
+  {% endif %}
 
-<b>Organizers:</b>
+  <b>Organizers:</b>
 
-{% if page.event.organizers %}
+  {% if page.event.organizers %}
   {% assign lastone = site.conference.organizers | last %}
   {% for person in page.organizers %}
   {% include listperson.html %}<br>
