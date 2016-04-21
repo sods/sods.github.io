@@ -8,7 +8,7 @@ ve we Created?"
   start: "17:30"
   end: "18:30"
   room: "The Diamond, 32 Leavygreave Road, Sheffield, S3 7RD (Lecture Theatre 5)"
-  speakers
+  speakers:
   - name: Neil Lawrence
     url: "http://inverseprobability.com"
     institute: "Department of Computer Science, University of Sheffield"

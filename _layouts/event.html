@@ -14,14 +14,21 @@ layout: post
   {% if page.event.room or page.event.location %}
   <b>Venue:</b> {% if page.event.room and page.event.location %}{{ page.event.room }}, {{ page.event.location }}{% else %}{{ page.event.room }}{{ page.event.location }}{% endif %}<br><br>
   {% endif %}
-
-  <b>Organizers:</b>
+  {% if page.event.speakers %}
+  <b>Speaker:</b>
+  {% assign lastone = page.event.speakers | last %}
+  {% for person in page.event.speakers %}
+  {% include listperson.html %}
+  {% endfor %}<br><br>
+  {% endif %}
+  
 
   {% if page.event.organizers %}
+  <b>Organized by:</b>
   {% assign lastone = page.event.organizers | last %}
-  {% for person in page.organizers %}
-  {% include listperson.html %}<br>
-  {% endfor %}
+  {% for person in page.event.organizers %}
+  {% include listperson.html %}
+  {% endfor %}<br><br>
   {% endif %}
 </p>
 
