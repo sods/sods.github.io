@@ -2,6 +2,9 @@
 layout: post
 ---
 <p>
+  {% if page.event.title %}
+  <b>Title:</b> {{ page.event.title }}<br><br>
+  {% endif %}
   {% if page.event.date %}
   <b>Date:</b> {{ page.event.date | date: "%A, %b %d, %Y" }}<br><br>
   {% endif %}
@@ -15,7 +18,7 @@ layout: post
   <b>Organizers:</b>
 
   {% if page.event.organizers %}
-  {% assign lastone = site.conference.organizers | last %}
+  {% assign lastone = page.event.organizers | last %}
   {% for person in page.organizers %}
   {% include listperson.html %}<br>
   {% endfor %}
