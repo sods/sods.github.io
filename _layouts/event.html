@@ -2,20 +2,20 @@
 layout: post
 ---
 
-## {{ page.title }} 
 
-### Date: {{ page.event_date | date: "%a, %b %d, %y" }}
+<h3>Date: {{ page.event_date | date: "%a, %b %d, %y" }}</h3>
 
-### Where: {{ page.address }}
+<h3>Where: {{ page.address }}</h3>
 
-### Organizers:
+<h3>Organizers:</h3>
 
-{% for person in page.organizers %}
-{% include listperson.html %}
+<p>{% for person in page.organizers %}
+{% include listperson.html %}<br>
 {% endfor %}
+</p>
 
 {% if page.ticket_url %}
-To attend this event tickets <a href="{{ page.ticket_url }}">are available here</a>
+<p>To attend this event tickets <a href="{{ page.ticket_url }}">are available here</a></p>
 {% endif %}
 
 {{ content }}
