@@ -11,7 +11,7 @@ layout: post
 <b>Time:</b> {{ page.event.start }}{% if page.event.end %} - {{ page.event.end }}{% endif %}<br><br>
 {% endif %}
 {% if page.event.room or page.event.location %}
-<b>Venue:</b> {{ page.event.room }} {{ page.event.location }}}<br><br>
+<b>Venue:</b>{% if page.event.room and page.event.location %}{{ page.event.room }}, {{ page.event.location }}{% else %}{{ page.event.room }}{{ page.event.location }}<br><br>
 {% endif %}
 
 <b>Organizers:</b>
@@ -24,7 +24,7 @@ layout: post
   {% endif %}
 </p>
 
-{% if page.ticket_url %}
+{% if page.event.ticket_url %}
 <p>To attend this event tickets <a href="{{ page.ticket_url }}">are available here</a></p>
 {% endif %}
 
