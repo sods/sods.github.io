@@ -1,0 +1,21 @@
+---
+layout: post
+---
+
+## {{ page.title }} 
+
+### Date: {{ page.event_date | date: "%a, %b %d, %y" }}
+
+### Where: {{ page.address }}
+
+### Organizers:
+
+{% for person in page.organizers %}
+{% include listperson.html %}
+{% endfor %}
+
+{% if page.ticket_url %}
+To attend this event tickets <a href="{{ page.ticket_url %}">are available here</a>
+{% endif %}
+
+{{ content }}
