@@ -3,8 +3,7 @@ layout: event
 title: "Science Week Talk 2016"
 event:
   date: 2016-03-17
-  title: "The Rise of the Algorithm: What Kind of Artificial Intelligence ha
-ve we Created?"
+  title: "The Rise of the Algorithm: What Kind of Artificial Intelligence have we Created?"
   start: "17:30"
   end: "18:30"
   room: "Lecture Theatre 5"

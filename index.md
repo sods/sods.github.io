@@ -5,7 +5,7 @@ tagline: open data science initiative
 
 Do you want to hear or talk about data science in Sheffield? Come along to one of our [Data Hide](/datahide/) meetings (held at "The Hide" in Sheffield).
 
-Open data science is a philosophy designed to address emerging challenges for society in data. The Open Data Science Initiative is a cross faculty project built around the ideas in this [**white paper**](http://inverseprobability.com/2014/07/01/open-data-science/). 
+Open data science is a philosophy designed to address emerging challenges for society in data. The Open Data Science Initiative is a cross faculty project built around the ideas in this [**white paper**](http://inverseprobability.com/2014/07/01/open-data-science). 
 
 Many talented people would like to see their ideas and work being applied for the widest benefit possible. The modern internet provides tools such as [GitHub](https://github.com), [jupyter notebook](http://jupyter.org) and [reddit](http://reddit.com) for easy distribution and comment on this material. In Sheffield we make our ideas available through these mechanisms.
 
