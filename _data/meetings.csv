@@ -1,4 +1,5 @@
 present,location,startday,endday,startmonth,endmonth,year,event,url,coorganizers,gpss
+Y,"Sheffield, UK",23,23,May,,2016,"Entropy Day",http://opendsi.cc/ed2016,[Dagmar Divjak](https://www.sheffield.ac.uk/russian/staff/profiles/divjakd)
 Y,"Manchester, UK",20,25,September,,2015,"Machine Learning for Personalized Medicine Summer Schoool",http://gpss.cc/mlpm15,[Max Zwiessele](http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/)
 Y,"Sheffield, UK",17,17,September,,2015,"Workshop on Gaussian Processes for Global Optimization",http://gpss.cc/gpgo15,[Javier Gonzalez](http://javiergonzalezh.github.io/) and the Sheffield ML group
 Y,"Sheffield, UK",14,16,September,,2015,"Gaussian Process Summer School",http://gpss.cc/gpss15,[Javier Gonzalez](http://javiergonzalezh.github.io/) and the Sheffield ML group
