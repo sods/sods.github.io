@@ -1,8 +1,6 @@
 ---
 layout: page
 title: News
-tagline: "thoughts and reports on machine learning and privacy"
-header: News
 ---
 
 <ul class="posts">
